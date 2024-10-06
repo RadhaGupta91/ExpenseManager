@@ -22,7 +22,7 @@ React: ^18.3.1
 
 <!-- Libraries -->
 
-Data Persistence: redux-persist: ^6.0.0
+Data Persistence:redux-persist: ^6.0.0
 Styling Framework: tailwindcss: ^3.4.13
 Charts: chart.js, react-chartjs-2
 Local Data Storage: @reduxjs/toolkit: ^2.2.7
