@@ -52,3 +52,8 @@ React: ^18.3.1
 @testing-library/react: ^16.0.1
 jest: ^27.5.1
 redux-mock-store: ^1.5.4
+
+Test Results
+ExpenseList.test.js: https://prnt.sc/Kdkw1yemQ4mZ
+ExpenseItem.test.js: https://prnt.sc/U_s4NLKeFzjd
+AddExpense.test.js: https://prnt.sc/3DGF1xcEuNjo
